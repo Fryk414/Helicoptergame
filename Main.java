@@ -10,6 +10,8 @@ public class Main {
     static Terminal terminal;
     static Enemy enemy;
     static Player player;
+// this is an uppdate
+
 
     public static void main(String[] args) throws Exception {
         TerminalSize ts = new TerminalSize(60,40);
